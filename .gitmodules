@@ -1,3 +1,6 @@
 [submodule "external/gitignore"]
 	path = external/gitignore
 	url = https://github.com/github/gitignore.git
+[submodule "external/private-submodule"]
+	path = external/private-submodule
+	url = https://github.com/drewsorg/private-submodule.git
